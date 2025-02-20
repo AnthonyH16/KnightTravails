@@ -36,7 +36,7 @@ function createAdjList(startPos){
         console.log(adjList);
         return adjList;
     }
-
+adfsdafasdf
     function findNextMoves(adjList){
 
     }
