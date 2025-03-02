@@ -68,5 +68,4 @@ function knightMoves(startPos, endPos) {
     console.log("There's no possible path to the end position.");
 }
 
-// Example Usage
 knightMoves([3, 3], [4, 3]);
